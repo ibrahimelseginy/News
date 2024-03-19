@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:news/api_service.dart';
 
 void main() {
+  APIService.getSources('Sports');
   runApp(const MyApp());
 }
 
