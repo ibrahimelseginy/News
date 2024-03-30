@@ -1,10 +1,10 @@
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:news/category/category_item.dart';
 import 'package:news/category/category_model.dart';
 
 class CategoryGrid extends StatelessWidget {
-  const CategoryGrid({super.key});
+  final void Function(CategoryModel) onCategorySelected;
+  const CategoryGrid({required this.onCategorySelected, super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -31,13 +31,21 @@ class CategoryGrid extends StatelessWidget {
                 mainAxisSpacing: 24,
                 crossAxisSpacing: 24,
               ),
-              itemBuilder: (_, index) => CategoryItem(
-                category: CategoryModel.categories[index],
-                index: index,
-              ),
+              itemBuilder: (_, index) {
+                final category = CategoryModel.categories[index];
+                return InkWell(
+                  onTap: () {
+                    onCategorySelected(category);
+                  },
+                  child: CategoryItem(
+                    category: category,
+                    index: index,
+                  ),
+                );
+              },
               itemCount: CategoryModel.categories.length,
             ),
-          )
+          ),
         ],
       ),
     );

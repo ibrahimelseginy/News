@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:news/app_theme.dart';
 
 class HomeDrawer extends StatelessWidget {
-  const HomeDrawer({super.key});
+  final void Function(DrawerItem) onItemSelected;
+  const HomeDrawer(this.onItemSelected, {super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -33,40 +34,50 @@ class HomeDrawer extends StatelessWidget {
                   const SizedBox(
                     height: 12,
                   ),
-                  Row(
-                    children: [
-                      const Icon(
-                        Icons.menu,
-                      ),
-                      const SizedBox(
-                        width: 10,
-                      ),
-                      Text(
-                        'categories',
-                        style: bodyLargeStyle?.copyWith(
-                          color: AppTheme.blackColor,
+                  InkWell(
+                    onTap: () {
+                      onItemSelected(DrawerItem.categories);
+                    },
+                    child: Row(
+                      children: [
+                        const Icon(
+                          Icons.menu,
                         ),
-                      )
-                    ],
+                        const SizedBox(
+                          width: 10,
+                        ),
+                        Text(
+                          'categories',
+                          style: bodyLargeStyle?.copyWith(
+                            color: AppTheme.blackColor,
+                          ),
+                        )
+                      ],
+                    ),
                   ),
                   const SizedBox(
                     height: 12,
                   ),
-                  Row(
-                    children: [
-                      const Icon(
-                        Icons.settings,
-                      ),
-                      const SizedBox(
-                        width: 10,
-                      ),
-                      Text(
-                        'Settings',
-                        style: bodyLargeStyle?.copyWith(
-                          color: AppTheme.blackColor,
+                  InkWell(
+                    onTap: () {
+                      onItemSelected(DrawerItem.settings);
+                    },
+                    child: Row(
+                      children: [
+                        const Icon(
+                          Icons.settings,
                         ),
-                      )
-                    ],
+                        const SizedBox(
+                          width: 10,
+                        ),
+                        Text(
+                          'Settings',
+                          style: bodyLargeStyle?.copyWith(
+                            color: AppTheme.blackColor,
+                          ),
+                        )
+                      ],
+                    ),
                   ),
                 ],
               ),
@@ -76,4 +87,9 @@ class HomeDrawer extends StatelessWidget {
       ),
     );
   }
+}
+
+enum DrawerItem {
+  categories,
+  settings;
 }
