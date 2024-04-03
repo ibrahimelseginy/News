@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:news/app_theme.dart';
+import 'package:news/shared/app_theme.dart';
 
 class HomeDrawer extends StatelessWidget {
   final void Function(DrawerItem) onItemSelected;

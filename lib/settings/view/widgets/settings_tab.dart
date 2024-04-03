@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:news/settings/setting_provider.dart';
+import 'package:news/settings/view_model/setting_view_model.dart';
 import 'package:provider/provider.dart';
 
 class SettingsTab extends StatefulWidget {
