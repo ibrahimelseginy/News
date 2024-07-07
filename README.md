@@ -44,10 +44,10 @@ I welcome contributions from developers of all skill levels! If you'd like to co
 
 ## ScreenShots 📸 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/ibrahimelseginy/News/assets/160798019/d797a1cd-dad9-4b28-99f6-a878e48a4cb5.png" height="400">
-    <img src="https://github.com/ibrahimelseginy/News/assets/160798019/cc39dd6b-00d1-446c-b1e3-f6ca8a9a9e17.png" height="400">
-    <img src="https://github.com/ibrahimelseginy/News/assets/160798019/929b28b9-6cd2-45e2-81d3-bc646d9f7a55.png" height="400">
-    <img src="https://github.com/ibrahimelseginy/News/assets/160798019/5c5b1b91-58bc-496b-8ed4-ec5b9d726aca.png" height="400">
+    <img src="https://github.com/ibrahimelseginy/News/assets/160798019/d797a1cd-dad9-4b28-99f6-a878e48a4cb5.png" width="150" height="315">
+    <img src="https://github.com/ibrahimelseginy/News/assets/160798019/cc39dd6b-00d1-446c-b1e3-f6ca8a9a9e17.png" width="150" height="315">
+    <img src="https://github.com/ibrahimelseginy/News/assets/160798019/929b28b9-6cd2-45e2-81d3-bc646d9f7a55.png" width="150" height="315">
+    <img src="https://github.com/ibrahimelseginy/News/assets/160798019/5c5b1b91-58bc-496b-8ed4-ec5b9d726aca.png" width="150" height="315">
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-top: 30px;">
