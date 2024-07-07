@@ -6,7 +6,7 @@ This project is your gateway to a dynamic news experience, offering users access
 
 - 🔍 **Search Functionality:** Users can easily search for news articles using keywords, filtering by category or searching across all categories.
 - 📊 **REST APIs and JSON:** We've integrated news APIs to fetch the latest updates from various sources, ensuring that our users stay informed in real-time.
-- 🧩 **State Management:** Leveraging the power of Provider state management, we've ensured a smooth and efficient user experience, with minimal performance overhead.
+- 🧩 **State Management:** Leveraging the power of Provider state management.
 - 🔌 **Provider:** We've utilized the Provider package to manage app-wide state and dependency injection, ensuring clean and maintainable code.
 - 📱 **Responsive Design:** The app is responsive across devices, ensuring a consistent and optimized experience on mobile screens.
 
@@ -28,20 +28,20 @@ This project is your gateway to a dynamic news experience, offering users access
 
 ## Contributing 🤝
 
-We welcome contributions from developers of all skill levels! If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. Together, we can make this app even better! 🚀
+I'am welcome contributions from developers of all skill levels! If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. Together, we can make this app even better! 🚀
 
 ## ScreenShots 📸 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Omnia-97/News-App/blob/master/assets/screen_shots/splash.png" height="400">
-    <img src="https://github.com/Omnia-97/News-App/blob/master/assets/screen_shots/home_category.png" height="400">
-    <img src="https://github.com/Omnia-97/News-App/blob/master/assets/screen_shots/news_screen.png" height="400">
-    <img src="https://github.com/Omnia-97/News-App/blob/master/assets/screen_shots/title_screen.png" height="400">
+    <img src=".png" height="400">
+    <img src=".png" height="400">
+    <img src=".png" height="400">
+    <img src=".png" height="400">
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-top: 30px;">
-       <img src="https://github.com/Omnia-97/News-App/blob/master/assets/screen_shots/search.png" height="400">
-       <img src="https://github.com/Omnia-97/News-App/blob/master/assets/screen_shots/setting.png" height="400">
-       <img src="https://github.com/Omnia-97/News-App/blob/master/assets/screen_shots/setting2.png" height="400">
+       <img src="" height="400">
+       <img src="" height="400">
+       <img src=".png" height="400">
 </div>
 
 ## Credits 🙌
@@ -51,8 +51,7 @@ This project was made possible thanks to the amazing contributions of developers
 - Flutter: A powerful framework for building natively compiled applications for mobile, web, and desktop from a single codebase.
 - Dart: The programming language used to build Flutter apps.
 - News APIs: The APIs providing the latest news data for our app.
-- Cubit State Management: A lightweight state management solution for Flutter applications.
-- Observer Pattern: A design pattern used to maintain consistency between related objects.
+
 
 Thank you for checking out our Flutter News App Project! We hope you enjoy using it as much as we enjoyed building it. Happy coding! 🎉
 
