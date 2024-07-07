@@ -16,7 +16,7 @@ This project is your gateway to a dynamic news experience, offering users access
    
      git clone https://github.com/ibrahimelseginy/Islami
 
-2.** Ensure you have Flutter installed. If not, refer to the [Flutter documentation](https://flutter.dev/docs/get-started/install).
+2. ** Ensure you have Flutter installed. If not, refer to the [Flutter documentation](https://flutter.dev/docs/get-started/install).
 
 3. **Install Dependencies:** Navigate to the project directory and install the necessary dependencies using Flutter's package manager:
 
@@ -31,6 +31,12 @@ This project is your gateway to a dynamic news experience, offering users access
 ## Contributing 🤝
 
 I welcome contributions from developers of all skill levels! If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. Together, we can make this app even better! 🚀
+
+1. Fork this repository.
+2. Create your feature branch (`git checkout -b feature/YourFeature`).
+3. Commit your changes (`git commit -am 'Add some feature'`).
+4. Push to the branch (`git push origin feature/YourFeature`).
+5. Create a new Pull Request.
 
 ## ScreenShots 📸 
 <div style="display: flex; justify-content: space-between;">
