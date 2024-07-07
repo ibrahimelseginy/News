@@ -1,10 +1,8 @@
   <p align="center">
 <img src="https://user-images.githubusercontent.com/25670178/43371999-c4a4ee3e-93b9-11e8-9912-87f4c219bd51.png"
- </p>
+  </p>
  
-<h1 align="center">News App 📰</h1>
-
-
+<h1 align="center"> News App 📰</h1>
 
 This project is your gateway to a dynamic news experience, offering users access to news of all kinds. Whether you're interested in politics, sports, technology, or entertainment, this app has you covered! 🌟
 
@@ -46,16 +44,15 @@ I welcome contributions from developers of all skill levels! If you'd like to co
 
 ## ScreenShots 📸 
 <div style="display: flex; justify-content: space-between;">
-    <img src=".png" height="400">
-    <img src=".png" height="400">
-    <img src=".png" height="400">
-    <img src=".png" height="400">
+    <img src="https://github.com/ibrahimelseginy/News/assets/160798019/d797a1cd-dad9-4b28-99f6-a878e48a4cb5.png" height="400">
+    <img src="https://github.com/ibrahimelseginy/News/assets/160798019/cc39dd6b-00d1-446c-b1e3-f6ca8a9a9e17.png" height="400">
+    <img src="https://github.com/ibrahimelseginy/News/assets/160798019/929b28b9-6cd2-45e2-81d3-bc646d9f7a55.png" height="400">
+    <img src="https://github.com/ibrahimelseginy/News/assets/160798019/5c5b1b91-58bc-496b-8ed4-ec5b9d726aca.png" height="400">
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-top: 30px;">
-       <img src="" height="400">
-       <img src="" height="400">
-       <img src=".png" height="400">
+       <img src="https://github.com/ibrahimelseginy/News/assets/160798019/26b854fa-3224-4b65-bb79-55e723670da6.png" height="400">
+       <img src="https://github.com/ibrahimelseginy/News/assets/160798019/75f01c05-b643-49f7-9ec1-6cd702cfb95d.png" height="400">
 </div>
 <div> News 📰 </div>  
 
