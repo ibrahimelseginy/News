@@ -6,8 +6,7 @@ This project is your gateway to a dynamic news experience, offering users access
 
 - 🔍 **Search Functionality:** Users can easily search for news articles using keywords, filtering by category or searching across all categories.
 - 📊 **REST APIs and JSON:** We've integrated news APIs to fetch the latest updates from various sources, ensuring that our users stay informed in real-time.
-- 🧩 **State Management:** Leveraging the power of Cubit state management, we've ensured a smooth and efficient user experience, with minimal performance overhead.
-- 👁️ **Observer Pattern:** By implementing the observer pattern, we've enabled our app to react dynamically to changes in data, providing users with up-to-date information at all times.
+- 🧩 **State Management:** Leveraging the power of Provider state management, we've ensured a smooth and efficient user experience, with minimal performance overhead.
 - 🔌 **Provider:** We've utilized the Provider package to manage app-wide state and dependency injection, ensuring clean and maintainable code.
 - 📱 **Responsive Design:** The app is responsive across devices, ensuring a consistent and optimized experience on mobile screens.
 
@@ -15,7 +14,7 @@ This project is your gateway to a dynamic news experience, offering users access
 
 1. **Clone the Repository:** Begin by cloning this repository to your local machine using the following command:
    
-     git clone https://github.com/Omnia-97/News-App.git
+     git clone https://github.com/ibrahimelseginy/news
 
 3. **Install Dependencies:** Navigate to the project directory and install the necessary dependencies using Flutter's package manager:
 
