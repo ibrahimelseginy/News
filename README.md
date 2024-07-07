@@ -51,8 +51,8 @@ I welcome contributions from developers of all skill levels! If you'd like to co
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-top: 30px;">
-       <img src="https://github.com/ibrahimelseginy/News/assets/160798019/26b854fa-3224-4b65-bb79-55e723670da6.png" height="400">
-       <img src="https://github.com/ibrahimelseginy/News/assets/160798019/75f01c05-b643-49f7-9ec1-6cd702cfb95d.png" height="400">
+       <img src="https://github.com/ibrahimelseginy/News/assets/160798019/26b854fa-3224-4b65-bb79-55e723670da6.png" width="150" height="315">
+       <img src="https://github.com/ibrahimelseginy/News/assets/160798019/75f01c05-b643-49f7-9ec1-6cd702cfb95d.png" width="150" height="315">
 </div>
 <div> News 📰 </div>  
 
