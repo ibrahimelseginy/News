@@ -16,7 +16,7 @@ This project is your gateway to a dynamic news experience, offering users access
    
      git clone https://github.com/ibrahimelseginy/Islami
 
-2. ** Ensure you have Flutter installed. If not, refer to the [Flutter documentation](https://flutter.dev/docs/get-started/install).
+2. **Ensure you have Flutter installed. If not, refer to the [Flutter documentation](https://flutter.dev/docs/get-started/install).
 
 3. **Install Dependencies:** Navigate to the project directory and install the necessary dependencies using Flutter's package manager:
 
