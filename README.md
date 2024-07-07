@@ -51,6 +51,10 @@ I welcome contributions from developers of all skill levels! If you'd like to co
        <img src="" height="400">
        <img src=".png" height="400">
 </div>
+<div> News 📰 </div>  
+
+https://github.com/ibrahimelseginy/news/assets/160798019/71dfc86f-74ec-4032-97a9-cff7abf2dcec
+
 
 ## Credits 🙌
 
