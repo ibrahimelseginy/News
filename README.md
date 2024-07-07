@@ -1,4 +1,10 @@
-# News App 📰
+  <p align="center">
+<img src="https://user-images.githubusercontent.com/25670178/43371999-c4a4ee3e-93b9-11e8-9912-87f4c219bd51.png"
+ </p>
+ 
+<h1 align="center">News App 📰</h1>
+
+
 
 This project is your gateway to a dynamic news experience, offering users access to news of all kinds. Whether you're interested in politics, sports, technology, or entertainment, this app has you covered! 🌟
 
