@@ -10,8 +10,6 @@ This project is your gateway to a dynamic news experience, offering users access
 - 🔌 **Provider:** We've utilized the Provider package to manage app-wide state and dependency injection, ensuring clean and maintainable code.
 - 📱 **Responsive Design:** The app is responsive across devices, ensuring a consistent and optimized experience on mobile screens.
 
-## How to Use:
-
 ## Getting Started:
 
 1. **Clone the Repository:** Begin by cloning this repository to your local machine using the following command:
