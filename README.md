@@ -24,11 +24,11 @@ This project is your gateway to a dynamic news experience, offering users access
  
      flutter run
 
-7. **Explore and Enjoy:** Once the app is running, explore its features, search for news articles, and stay updated on the latest happenings from around the world!
+6. **Explore and Enjoy:** Once the app is running, explore its features, search for news articles, and stay updated on the latest happenings from around the world!
 
 ## Contributing 🤝
 
-I'am welcome contributions from developers of all skill levels! If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. Together, we can make this app even better! 🚀
+I welcome contributions from developers of all skill levels! If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. Together, we can make this app even better! 🚀
 
 ## ScreenShots 📸 
 <div style="display: flex; justify-content: space-between;">
@@ -54,5 +54,8 @@ This project was made possible thanks to the amazing contributions of developers
 
 
 Thank you for checking out our Flutter News App Project! We hope you enjoy using it as much as we enjoyed building it. Happy coding! 🎉
+
+---
+May News App be a source of guidance and blessings for users. **JazakAllahu Khairan!** 🌟
 
 
