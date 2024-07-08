@@ -18,7 +18,7 @@ This project is your gateway to a dynamic news experience, offering users access
 
 1. **Clone the Repository:** Begin by cloning this repository to your local machine using the following command:
    
-     git clone https://github.com/ibrahimelseginy/Islami
+     git clone https://github.com/ibrahimelseginy/News
 
 2.  Ensure you have Flutter installed. If not, refer to the [Flutter documentation](https://flutter.dev/docs/get-started/install).
 
